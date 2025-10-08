@@ -223,11 +223,10 @@ Contains an array of 10 sample recipes with:
 
 Once you're happy with your transformation:
 
-1. **Create a new GitHub repository**
+1. **Fork this GitHub repository**
 2. **Upload all files** (keep the same structure)
 3. **Enable GitHub Pages** in repository settings
 4. **Test the live version** thoroughly
-5. **Share your before/after** screenshots
 
 ## Success Criteria
 
